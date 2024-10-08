@@ -1,7 +1,3 @@
-<div align="center">
-  <a href="https://vijaisuria.github.io/"><img src ="https://raw.githubusercontent.com/vijaisuria/vijaisuria/main/banner.png" /></a> 
-</div>
-
 <h1 align="center">
   Hi There!
   <span role="img" aria-labelledby="wave">
