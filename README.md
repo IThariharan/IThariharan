@@ -46,19 +46,18 @@ I'm <strong>Hariharan</strong>, pursing my <u>BE</u> in Computer Science Enginee
 ## ❤️ Let's get connected:
 
 <p align="center">
-  <a href="https://IThariharan.github.io/" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/IThariharan.github.io-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
-  </a> 
+  <a href="https://www.codechef.com/users/hariharanrdev" target="_blank">
+    <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%23D41C4A.svg?&style=for-the-badge&logo=codechef&logoColor=white" height="30px"/>
+  </a>
   <a href="https://www.linkedin.com/in/hariharanr04" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
   </a> 
   <a href="https://github.com/IThariharan" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  height="30px"/>
   </a> 
-  <a href="https://www.hackerrank.com/hariharanr04" target="_blank">
+  <a href="https://www.hackerrank.com/hariharanrdev" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" height="30px"/>
   </a>
-
   <a href="mailto:hariharanrdev@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/>
   </a>
