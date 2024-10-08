@@ -46,8 +46,28 @@ I'm <strong>Hariharan</strong>, pursing my <u>BE</u> in Computer Science Enginee
 ## ❤️ Let's get connected:
 
 <p align="center">
-  <a href="https://www.codechef.com/users/hariharanrdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hariharanrdev" height="30" width="40" />
-  </a>
+  <a href="https://www.codechef.com/users/hariharanrdev" target="_blank">
+  <img align="center" 
+       src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" 
+       alt="hariharanrdev" 
+       height="30" 
+       width="40" 
+       class="theme-logo" />
+</a>
+
+<style>
+  /* Default logo color for light theme */
+  .theme-logo {
+    filter: invert(0);
+  }
+
+  /* Dark mode logo color */
+  @media (prefers-color-scheme: dark) {
+    .theme-logo {
+      filter: invert(1);
+    }
+  }
+</style>
   <a href="https://www.linkedin.com/in/hariharanr04" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
   </a> 
