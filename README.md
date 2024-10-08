@@ -20,7 +20,7 @@ I'm <strong>Hariharan</strong>, pursing my <u>BE</u> in Computer Science Enginee
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `Machine Learning`
+- 🌱 I’m currently learning `Web Development`
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
@@ -30,7 +30,6 @@ I'm <strong>Hariharan</strong>, pursing my <u>BE</u> in Computer Science Enginee
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I code, therefore I am caffeinated :coffee:.
 
 <br>
 
@@ -38,7 +37,7 @@ I'm <strong>Hariharan</strong>, pursing my <u>BE</u> in Computer Science Enginee
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,sass,tailwind,bootstrap,jquery,vite,mongodb,mysql,sqlite,expressjs,nodejs,php,flask,redux,laravel,spring,c,cpp,java,python,js,ts,bash,latex,md,linux,git,github,githubactions,gcp,figma,wordpress,vscode,idea,androidstudio,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,mongodb,mysql,sqlite,flask,c,java,python,git,github,githubactions,vscode&perline=10" />
   </a>
 </p>
 
