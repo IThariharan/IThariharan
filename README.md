@@ -55,9 +55,10 @@ I'm <strong>Hariharan</strong>, pursing my <u>BE</u> in Computer Science Enginee
   <a href="https://github.com/IThariharan" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  height="30px"/>
   </a> 
-  <a href="https://orcid.org/0009-0001-1942-0895" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Orchid-A6CE39?style=for-the-badge&logo=orchid&logoColor=white"  height="30px"/>
+  <a href="https://www.hackerrank.com/hariharanr04" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" height="30px"/>
   </a>
+
   <a href="mailto:hariharanrdev@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/>
   </a>
