@@ -80,4 +80,4 @@ I'm <strong>Hariharan</strong>, pursing my <u>BE</u> in Computer Science Enginee
   <img src="https://github-profile-trophy.vercel.app/?username=IThariharan&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
-<!-- <img src="https://leetcode-stats-six.vercel.app/?username=vijaisuria&theme=dark" /> -->
+<!-- <img src="https://leetcode-stats-six.vercel.app/?username=IThariharan&theme=dark" /> -->
