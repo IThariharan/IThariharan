@@ -54,20 +54,6 @@ I'm <strong>Hariharan</strong>, pursing my <u>BE</u> in Computer Science Enginee
        width="40" 
        class="theme-logo" />
 </a>
-
-<style>
-  /* Default logo color for light theme */
-  .theme-logo {
-    filter: invert(0);
-  }
-
-  /* Dark mode logo color */
-  @media (prefers-color-scheme: dark) {
-    .theme-logo {
-      filter: invert(1);
-    }
-  }
-</style>
   <a href="https://www.linkedin.com/in/hariharanr04" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
   </a> 
