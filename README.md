@@ -46,22 +46,19 @@ I'm <strong>Hariharan</strong>, pursing my <u>BE</u> in Computer Science Enginee
 ## ❤️ Let's get connected:
 
 <p align="center">
-  <a href="https://vijaisuria.github.io/" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/vijaisuria.github.io-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
+  <a href="https://IThariharan.github.io/" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/IThariharan.github.io-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
   </a> 
-  <a href="https://www.linkedin.com/in/vijaisuria/" target="_blank">
+  <a href="https://www.linkedin.com/in/hariharanr04" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
   </a> 
-  <a href="https://github.com/vijaisuria" target="_blank">
+  <a href="https://github.com/IThariharan" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  height="30px"/>
-  </a> 
-  <a href="https://twitter.com/vijaisuria" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/>
   </a> 
   <a href="https://orcid.org/0009-0001-1942-0895" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Orchid-A6CE39?style=for-the-badge&logo=orchid&logoColor=white"  height="30px"/>
   </a>
-  <a href="mailto:vijaisuria87@gmail.com" target="_blank">
+  <a href="mailto:hariharanrdev@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/>
   </a>
 </p>
@@ -80,7 +77,7 @@ I'm <strong>Hariharan</strong>, pursing my <u>BE</u> in Computer Science Enginee
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijaisuria&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=IThariharan&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
 <!-- <img src="https://leetcode-stats-six.vercel.app/?username=vijaisuria&theme=dark" /> -->
