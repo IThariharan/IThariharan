@@ -68,11 +68,11 @@ I'm <strong>Hariharan</strong>, pursing my <u>BE</u> in Computer Science Enginee
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vijaisuria&show_icons=true&count_private=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=IThariharan&show_icons=true&count_private=true&theme=tokyonight" alt="Stats" />
   <br><br>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaisuria&theme=tokyonight&hide=html&exclude_repo=portfolio,mit-healthcentre-website,MomConnect-360,staff-portfolio" alt="Top Languages" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IThariharan&theme=tokyonight&hide=html&exclude_repo=portfolio,mit-healthcentre-website,MomConnect-360,staff-portfolio" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaisuria&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IThariharan&theme=tokyonight" alt="Streak" />
 </div>
 
 ### 🏆 GitHub Trophies
