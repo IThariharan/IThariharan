@@ -37,7 +37,7 @@ I'm <strong>Hariharan</strong>, pursing my <u>BE</u> in Computer Science Enginee
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,mongodb,mysql,sqlite,flask,c,java,python,git,github,githubactions,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,mongodb,mysql,sqlite,flask,c,java,git,github,githubactions,vscode&perline=10" />
   </a>
 </p>
 
